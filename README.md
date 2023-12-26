@@ -1,0 +1,2 @@
+# git-curse
+learn git
