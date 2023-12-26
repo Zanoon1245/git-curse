@@ -1,4 +1,4 @@
 # git-curse
-learn git
+learn g
 
-project noes
+##roject Notes
